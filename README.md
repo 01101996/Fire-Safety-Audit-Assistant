@@ -44,7 +44,7 @@ Optional: set your key as an environment variable (`ANTHROPIC_API_KEY`) or enter
 2. Go to <https://share.streamlit.io>, sign in with GitHub, click **Create app**, choose the repo, branch `main`, main file `app.py`.
 3. Under **Advanced settings → Secrets**, add:
    ```toml
-   ANTHROPIC_API_KEY = "your-key-here"
+   ANTHROPIC_API_KEY = "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"
    ```
 4. Click **Deploy**.
 
